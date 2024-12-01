@@ -1,0 +1,7 @@
+{
+  "name": "hibrido",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
