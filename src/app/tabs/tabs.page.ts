@@ -14,6 +14,6 @@ export class TabsPage {
   public environmentInjector = inject(EnvironmentInjector);
 
   constructor() {
-    addIcons({ triangle, ellipse, square, peopleCircle  });
+    addIcons({ triangle, ellipse, square, peopleCircle });
   }
 }
